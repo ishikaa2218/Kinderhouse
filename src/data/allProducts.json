@@ -1,0 +1,146 @@
+[
+    {
+        "id" : 1,
+        "title" : "Cuddly Octopus",
+        "price" : "₹550",
+        "image" : "21.jpg",
+        "pHeading" : "Soft, huggable, ocean friend! - Cuddly Octopus",
+        "pDescription" : "Bring home the charm of the ocean with our Cuddly Octopus Stuffed Toy! Made from ultra-soft, high-quality fabric, this adorable octopus is designed for endless snuggles and imaginative play. Its vibrant colors and friendly smile make it a delightful addition to any toy collection or nursery. Lightweight and durable, it’s perfect for kids of all ages and even adults who love a cute and cozy companion."  
+    },
+    {
+        "id" : 2,
+        "title" : "Machine Gun Blaster",
+        "price" : "₹580",
+        "image" : "17.jpg",
+        "pHeading" : "Action-packed machine gun fun! - Machine Gun Blaster",
+        "pDescription" : "Unleash thrilling adventures with the Machine Gun Blaster! Designed for action-loving kids, this toy features realistic sound effects, vibrant lights, and easy-to-use trigger action. Perfect for pretend battles and imaginative play, it’s made from durable, child-safe materials.  "
+    },
+    {
+        "id" : 3,
+        "title" : "Fluffy Unicorn",
+        "price" : "₹780",
+        "image" : "28.jpg",
+        "pHeading" : "Magical, cuddly, and irresistibly soft! - Fluffy Unicorn",
+        "pDescription" : "Bring home a dash of magic with the Fluffy Unicorn! Made from ultra-soft, high-quality materials, this adorable plush toy is perfect for snuggling, playtime, and bringing smiles to little faces. With its vibrant colors and charming design, it’s an enchanting companion for kids and unicorn lovers of all ages."
+    },
+    {
+        "id" : 4,
+        "title" : "Black Electric Jeep",
+        "price" : "₹1450",
+        "image" : "29.jpg",
+        "pHeading" : "Bold black ride-on adventure! - Black Electric Jeep",
+        "pDescription" : "Unleash the thrill of adventure with our sleek Black Electric Jeep! Designed for little explorers, this ride-on vehicle features a powerful electric motor, durable tires, and a rugged design for all-terrain fun. With easy controls, LED lights, and realistic sound effects, it ensures an exciting and safe ride. Perfect for fostering imagination and outdoor play, this electric jeep is the ultimate gift for young drivers ready to take the wheel. "
+    },
+    {
+        "id" : 5,
+        "title" : "Toddler Snail",
+        "price" : "₹350",
+        "image" : "30.jpg",
+        "pHeading" : "Adorable and fun snail toy! - Toddler Snail",
+        "pDescription" : "Bring joy to your little one's playtime with the adorable Toddler Snail! This colorful and engaging toy is designed to capture your toddler’s imagination while encouraging motor skills and sensory exploration. With its smooth edges and sturdy build, it’s perfect for tiny hands to grasp and play with."
+    },
+    {
+        "id" : 6,
+        "title" : "Kid Ride",
+        "price" : "₹890",
+        "image" : "31.jpg",
+        "pHeading" : "Exciting wheels for little adventurers! - Kid Ride",
+        "pDescription" : "Let your little ones embark on thrilling adventures with our Kid Ride! This fun and durable ride-on toy is designed for children, offering a smooth and safe ride. With vibrant colors, easy-to-use controls, and sturdy construction, it’s the perfect companion for hours of play. Whether zooming around the house or enjoying outdoor fun, your child will love every moment on this exciting ride!"
+    },
+    {
+        "id" : 7,
+        "title" : "Toy Gun",
+        "price" : "₹550",
+        "image" : "32.jpg",
+        "pHeading" : "Fun, Safe, Action-Packed Toy! - Toy Gun",
+        "pDescription" : "Unleash hours of fun with our Toy Gun! Designed for endless action and excitement, it’s perfect for imaginative play. Crafted with safety in mind, this lightweight, easy-to-use toy is suitable for kids of all ages. Whether it's a thrilling pretend battle or target practice, this toy gun promises safe and entertaining adventures. Get ready for some action-packed moments!"
+    },
+    {
+        "id" : 8,
+        "title" : "Wood Toy Set",
+        "price" : "₹850",
+        "image" : "33.jpg",
+        "pHeading" : "Durable, Eco-friendly Wooden Toy Set! - Wood Toy Set",
+        "pDescription" : "Our Wood Toy Set is the perfect blend of fun and sustainability. Made from eco-friendly, non-toxic wood, each piece is designed to spark creativity and imagination in children. With smooth, rounded edges and vibrant colors, this set is safe for young hands and provides endless hours of entertainment. It’s the perfect gift for little hands that love to explore and create!"
+    },
+    {
+        "id" : 9,
+        "title" : "Ride-on",
+        "price" : "₹800",
+        "image" : "16.jpg",
+        "pHeading" : "Fun and safe ride-on toy! - Ride-on",
+        "pDescription" : "The Ride-on toy offers endless fun and adventure for little ones. Designed for safety and durability, it features easy-to-handle controls, comfortable seating, and smooth maneuverability, making it the perfect companion for outdoor play. Ideal for toddlers, this toy helps improve motor skills while keeping children entertained for hours. Let your child enjoy the thrill of their own mini ride with this exciting, easy-to-use Ride-on toy!"
+    },
+    {
+        "id" : 10,
+        "title" : "Building Blocks",
+        "price" : "₹780",
+        "image" : "23.jpg",
+        "pHeading" : "Endless fun with blocks! - Building Blocks",
+        "pDescription" : "Unleash your child's creativity with these colorful and durable building blocks. Perfect for developing fine motor skills, spatial awareness, and imaginative play, these blocks offer hours of educational fun. Build anything from simple structures to intricate designs, fostering problem-solving and cognitive development in an engaging way."
+    },
+    {
+        "id" : 11,
+        "title" : "Rattles & Teether Set",
+        "price" : "₹300",
+        "image" : "18.jpg",
+        "pHeading" : "Safe, fun, and soothing set! - Rattles & Teether Set",
+        "pDescription" : "The Rattles & Teether Set is a perfect blend of fun and comfort for your little one. Designed with soft, BPA-free materials, this set includes a variety of colorful rattles and teethers that help soothe sore gums while keeping babies entertained. The easy-to-grip handles and gentle vibrations make it ideal for early development."
+    },
+    {
+        "id" : 12,
+        "title" : "Baby Toy Bed",
+        "price" : "₹1099",
+        "image" : "19.jpg",
+        "pHeading" : "Comfortable bed for little ones! - Baby Toy Bed",
+        "pDescription" : "Create a cozy space for your baby with our Baby Toy Bed. This adorable, soft, and comfortable bed is designed to keep your little one snug while adding a playful touch to their nursery. Made from high-quality, baby-safe materials, it provides a peaceful environment for rest and play. Perfect for your baby's first bed or as a charming addition to any toy collection."
+    },
+    {
+        "id" : 13,
+        "title" : "Baby Rice Pillow",
+        "price" : "₹320",
+        "image" : "20.jpg",
+        "pHeading" : "Soft, supportive pillow for babies! - Baby Rice Pillow",
+        "pDescription" : "The Baby Rice Pillow is a soft, hypoallergenic pillow designed to provide optimal support for your little one's head and neck. Made with a unique rice-filled design, it contours perfectly to ensure comfort and safety. Ideal for newborns and infants, this pillow helps prevent flat head syndrome while offering a soothing, gentle surface for your baby to rest."
+    },
+    {
+        "id" : 14,
+        "title" : "Drum Set",
+        "price" : "₹1200",
+        "image" : "22.jpg",
+        "pHeading" : "Perfect starter drum set! - Drum Set",
+        "pDescription" : "This drum set is the perfect choice for young music enthusiasts and aspiring drummers. Designed with durable materials and a compact size, it provides everything a beginner needs to start their musical journey. The set includes all essential components like the bass drum, snare, toms, and cymbals, ensuring an authentic drumming experience. "
+    },
+    {
+        "id" : 15,
+        "title" : "Educational Toy",
+        "price" : "₹2100",
+        "image" : "46.jpg",
+        "pHeading" : "Learning fun with every play! - Educational Toy",
+        "pDescription" : "Unlock your child's potential with our Educational Toy, designed to spark creativity and promote learning through play. Perfect for young minds, it encourages cognitive development, problem-solving, and fine motor skills. Made with safe, high-quality materials, this toy engages your little one while ensuring endless hours of fun and growth. "
+    },
+    {
+        "id" : 16,
+        "title" : "Study Table",
+        "price" : "₹1100",
+        "image" : "34.jpg",
+        "pHeading" : "Perfect workspace for studying! - Study Table",
+        "pDescription" : "The Study Table is designed to provide an organized and comfortable workspace for studying, reading, or working. With a spacious surface and sturdy build, it offers ample room for books, laptops, and other essentials. Its sleek, modern design complements any study room or office decor, making it a perfect choice for students and professionals alike."
+    },
+    {
+        "id" : 17,
+        "title" : "Stuffed Minion",
+        "price" : "₹700",
+        "image" : "41.jpg",
+        "pHeading" : "Adorable, cuddly Minion plush toy! - Stuffed Minion",
+        "pDescription" : "Meet your new best friend — the Stuffed Minion! This adorable, soft, and cuddly plush toy is perfect for kids and collectors alike. With its iconic yellow color, mischievous grin, and signature overalls, it’s the perfect companion for playtime, bedtime, or any time you need a little fun and cheer. Made from high-quality materials, this Minion will bring endless smiles and hugs, making it a must-have for fans of all ages."
+    },
+    {
+        "id" : 18,
+        "title" : "Doll House",
+        "price" : "₹3700",
+        "image" : "47.jpg",
+        "pHeading" : "Imaginative, fun, miniature dollhouse! - Doll House",
+        "pDescription" : "Unleash creativity with our Doll House, a charming miniature world where your child’s imagination can run wild. Crafted with attention to detail, this toy offers a cozy, furnished environment that encourages storytelling, role-playing, and endless fun. Perfect for hours of engaging play and ideal for fostering creativity and social skills in young minds. It’s a timeless gift for children who love exploring new worlds!"
+    }
+]

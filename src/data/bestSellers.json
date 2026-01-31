@@ -1,0 +1,50 @@
+[
+    {
+        "id" : 1,
+        "title" : "Ride-on",
+        "price" : "₹800",
+        "image" : "16.jpg"
+    },
+    {
+        "id" : 2,
+        "title" : "Building Blocks",
+        "price" : "₹780",
+        "image" : "23.jpg"
+    },
+    {
+        "id" : 3,
+        "title" : "Rattles & Teether Set",
+        "price" : "₹300",
+        "image" : "18.jpg"
+    },
+    {
+        "id" : 4,
+        "title" : "Baby Toy Bed",
+        "price" : "₹1099",
+        "image" : "19.jpg"
+    },
+    {
+        "id" : 5,
+        "title" : "Baby Rice Pillow",
+        "price" : "₹320",
+        "image" : "20.jpg"
+    },
+    {
+        "id" : 6,
+        "title" : "Drum Set",
+        "price" : "₹1200",
+        "image" : "22.jpg"
+    },
+    {
+        "id" : 7,
+        "title" : "Cuddly Octopus",
+        "price" : "₹550",
+        "image" : "21.jpg"
+    },
+    {
+        "id" : 8,
+        "title" : "Machine Gun Blaster",
+        "price" : "₹580",
+        "image" : "17.jpg"
+    }
+]

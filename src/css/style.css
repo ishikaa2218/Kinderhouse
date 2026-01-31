@@ -1,0 +1,100 @@
+*{
+	font-family: "Red Hat Text", serif;
+}
+
+.navbar {
+	white-space: nowrap;
+    overflow-x: auto;
+}
+
+.navbar-nav {
+    gap: 20px;
+}
+
+#search{
+    background-color:#f567b2;
+}
+
+.logo img{
+    width: 120px;
+    height: auto;
+    object-fit: contain;
+}
+
+.logo img:hover{
+    opacity: 0.7;
+}
+    
+.offer:hover{
+    opacity:0.9;
+}
+    
+.age{
+    text-decoration:none;
+    color:black;
+}
+    
+.age:hover{
+    opacity:0.6;
+}
+    
+#see{
+    text-decoration:none;
+    background-color:#f567b2;
+    color:white;
+}
+    
+#see:hover{
+    opacity:0.9;
+}
+    
+.best{
+    text-decoration:none;
+    color:black;
+}
+    
+.best:hover{
+    opacity:0.9;
+}
+    
+.footlink{
+    text-decoration:none;
+    color:white
+}
+    
+.footlink:hover{
+    color:#f567b2;
+}
+    
+.filter{
+    height:100vh;
+    overflow-y:auto;
+}
+
+.items li{
+    text-decoration: none;
+    display: grid;
+    columns: 4;
+    column-gap: 10;
+}
+
+.search-container{
+    position: relative;
+}
+
+.search-suggestions{
+    position: absolute;
+    top:100%;
+    left:0;
+    width:100%;
+    background-color: white;
+    border: 1px solid #ddd;
+    z-index: 9999;
+    max-height: 300px;
+    overflow-y: auto;
+    list-style-type: none;
+}
+
+.search-suggestions li:hover {
+    background-color: #f8f8f8;
+}
